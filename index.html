@@ -4,30 +4,68 @@
 		<title>Lokasi Menara Kota Bandung</title>
 		<meta charset=utf-8 />
 		<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-		<meta property="og:title" content="Lokasi Menara Kota Bandungs" />
-		<meta property="og:url" content="https://tryfatur.github.io/peta-menara" />
+		<meta property="og:title" content="Lokasi Menara Kota Bandung" />
+		<meta property="og:url" content="http://data.bandung.go.id/visualisasi" />
 		<meta property="og:image" content="preview.png" />
 		<link rel="shortcut icon" href="src/worldwide.png" type="image/png">
 		<link rel="icon" href="src/img/worldwide.png" type="image/png">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
-		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-		<link rel="stylesheet" href="https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css" />
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans">
-		<link rel="stylesheet" href="src/css/style.css">
-		<link rel="stylesheet" href="src/css/MarkerCluster.css">
-		<link rel="stylesheet" href="src/css/MarkerCluster.Default.css">
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Sans">
+		<link rel="stylesheet" type="text/css" href="src/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="src/css/mapbox.min.css" />
+		<link rel="stylesheet" type="text/css" href="src/css/style.css">
+		<link rel="stylesheet" type="text/css" href="src/css/MarkerCluster.css">
+		<link rel="stylesheet" type="text/css" href="src/css/MarkerCluster.Default.css">
 	</head>
 	<body>
-		
+		<!-- <nav class="navbar navbar-blue navbar-static-top" role="navigation">
+			<div class="container">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-map">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#"><i class="fa fa-fw fa-file-text"></i> Open Data Kota Bandung</a>
+					</div>
+					<div class="collapse navbar-collapse navbar-map">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a data-toggle="modal" href='#modal-id'>Lokasi Menara Telekomunikasi Tahun 2015</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav> -->
+
 		<div id="map"></div>
 
-		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-		<script src='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js'></script>
+		<!-- <div class="modal fade" id="modal-id">
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<h4 class="modal-title">Tentang Visualisasi</h4>
+					</div>
+					<div class="modal-body">
+						
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Save changes</button>
+					</div>
+				</div>
+			</div>
+		</div> -->
+
+		<script src="src/js/jquery-3.1.1.min.js"></script>
+		<script src="src/js/bootstrap.min.js"></script>
+		<script src="src/js/mapbox.min.js"></script>
 		<script src="src/js/leaflet.ajax.min.js"></script>
 		<script src="src/js/Leaflet.MakiMarkers.js"></script>
 		<script src="src/js/leaflet.markercluster.js"></script>
 		<script src="src/js/menara_data.js"></script>
 		<script src="src/js/map.js"></script>
 	</body>
-	
 </html>
