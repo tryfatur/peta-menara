@@ -33,7 +33,6 @@ info.onAdd = function (map) {
 	this._div.innerHTML = '<h4><b>Visualisasi Lokasi Menara Kota Bandung</b></h4>';
 	return this._div;
 };
-info.addTo(map);
 
 $.getJSON('src/json/menara_data.json', function(data) {
 	geojson = L.geoJson(data, {
