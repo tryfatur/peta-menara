@@ -1,0 +1,6570 @@
+{
+	"rows" : [
+		{
+			"id" : "M001",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.62753,
+			"latitude" : -6.91732
+		},
+		{
+			"id" : "M002",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.59283,
+			"latitude" : -6.86486
+		},
+		{
+			"id" : "M003",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61731,
+			"latitude" : -6.91978
+		},
+		{
+			"id" : "M004",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.63089,
+			"latitude" : -6.89644
+		},
+		{
+			"id" : "M005",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.6965,
+			"latitude" : -6.923
+		},
+		{
+			"id" : "M006",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61653,
+			"latitude" : -6.87133
+		},
+		{
+			"id" : "M007",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.59278,
+			"latitude" : -6.86472
+		},
+		{
+			"id" : "M008",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.69521,
+			"latitude" : -6.9641
+		},
+		{
+			"id" : "M009",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.60979,
+			"latitude" : -6.91963
+		},
+		{
+			"id" : "M010",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.70637,
+			"latitude" : -6.95732
+		},
+		{
+			"id" : "M011",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.58907,
+			"latitude" : -6.90166
+		},
+		{
+			"id" : "M012",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.59258,
+			"latitude" : -6.89249
+		},
+		{
+			"id" : "M013",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.56603,
+			"latitude" : -6.89985
+		},
+		{
+			"id" : "M014",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61418,
+			"latitude" : -6.88982
+		},
+		{
+			"id" : "M015",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61087,
+			"latitude" : -6.89156
+		},
+		{
+			"id" : "M016",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61046,
+			"latitude" : -6.88922
+		},
+		{
+			"id" : "M017",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.58922,
+			"latitude" : -6.8723
+		},
+		{
+			"id" : "M018",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.63944,
+			"latitude" : -6.91052
+		},
+		{
+			"id" : "M019",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60494,
+			"latitude" : -6.91567
+		},
+		{
+			"id" : "M020",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.62211,
+			"latitude" : -6.92814
+		},
+		{
+			"id" : "M021",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.65747,
+			"latitude" : -6.90179
+		},
+		{
+			"id" : "M022",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60445,
+			"latitude" : -6.92354
+		},
+		{
+			"id" : "M023",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60511,
+			"latitude" : -6.91849
+		},
+		{
+			"id" : "M024",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60306,
+			"latitude" : -6.93197
+		},
+		{
+			"id" : "M025",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.6178,
+			"latitude" : -6.8723
+		},
+		{
+			"id" : "M026",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.59173,
+			"latitude" : -6.92623
+		},
+		{
+			"id" : "M027",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.671,
+			"latitude" : -6.93747
+		},
+		{
+			"id" : "M028",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60619,
+			"latitude" : -6.92364
+		},
+		{
+			"id" : "M029",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.61399,
+			"latitude" : -6.92061
+		},
+		{
+			"id" : "M030",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.58273,
+			"latitude" : -6.88104
+		},
+		{
+			"id" : "M031",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.61356,
+			"latitude" : -6.88513
+		},
+		{
+			"id" : "M032",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.61206,
+			"latitude" : -6.92181
+		},
+		{
+			"id" : "M033",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60108,
+			"latitude" : -6.94275
+		},
+		{
+			"id" : "M034",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.690833,
+			"latitude" : -6.913139
+		},
+		{
+			"id" : "M035",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.6685,
+			"latitude" : -6.906389
+		},
+		{
+			"id" : "M036",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.665083,
+			"latitude" : -6.92625
+		},
+		{
+			"id" : "M037",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.64975,
+			"latitude" : -6.905778
+		},
+		{
+			"id" : "M038",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.65731,
+			"latitude" : -6.91614
+		},
+		{
+			"id" : "M039",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.64725,
+			"latitude" : -6.913417
+		},
+		{
+			"id" : "M040",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.62383,
+			"latitude" : -6.94989
+		},
+		{
+			"id" : "M041",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.635333,
+			"latitude" : -6.951611
+		},
+		{
+			"id" : "M042",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.607333,
+			"latitude" : -6.938681
+		},
+		{
+			"id" : "M043",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.644056,
+			"latitude" : -6.959639
+		},
+		{
+			"id" : "M044",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.61828,
+			"latitude" : -6.94408
+		},
+		{
+			"id" : "M045",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.66287,
+			"latitude" : -6.95921
+		},
+		{
+			"id" : "M046",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60877,
+			"latitude" : -6.94761
+		},
+		{
+			"id" : "M047",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.59464,
+			"latitude" : -6.85429
+		},
+		{
+			"id" : "M048",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.589111,
+			"latitude" : -6.870139
+		},
+		{
+			"id" : "M049",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.572981,
+			"latitude" : -6.895272
+		},
+		{
+			"id" : "M050",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.58109,
+			"latitude" : -6.88578
+		},
+		{
+			"id" : "M051",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.57452,
+			"latitude" : -6.87852
+		},
+		{
+			"id" : "M052",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.58963,
+			"latitude" : -6.88327
+		},
+		{
+			"id" : "M053",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.616,
+			"latitude" : -6.88261
+		},
+		{
+			"id" : "M054",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.61214,
+			"latitude" : -6.90125
+		},
+		{
+			"id" : "M055",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.628222,
+			"latitude" : -6.895694
+		},
+		{
+			"id" : "M056",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.61269,
+			"latitude" : -6.88622
+		},
+		{
+			"id" : "M057",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.61108,
+			"latitude" : -6.89409
+		},
+		{
+			"id" : "M058",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.623972,
+			"latitude" : -6.900972
+		},
+		{
+			"id" : "M059",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.62592,
+			"latitude" : -6.88961
+		},
+		{
+			"id" : "M060",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.6022,
+			"latitude" : -6.88283
+		},
+		{
+			"id" : "M061",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60446,
+			"latitude" : -6.88497
+		},
+		{
+			"id" : "M062",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60899,
+			"latitude" : -6.91587
+		},
+		{
+			"id" : "M063",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.6102,
+			"latitude" : -6.91327
+		},
+		{
+			"id" : "M064",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.63029,
+			"latitude" : -6.91711
+		},
+		{
+			"id" : "M065",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60775,
+			"latitude" : -6.92167
+		},
+		{
+			"id" : "M066",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60993,
+			"latitude" : -6.91934
+		},
+		{
+			"id" : "M067",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.61991,
+			"latitude" : -6.911269
+		},
+		{
+			"id" : "M068",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.611,
+			"latitude" : -6.91693
+		},
+		{
+			"id" : "M069",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.630556,
+			"latitude" : -6.910556
+		},
+		{
+			"id" : "M070",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.616762,
+			"latitude" : -6.922172
+		},
+		{
+			"id" : "M071",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.700056,
+			"latitude" : -6.928333
+		},
+		{
+			"id" : "M072",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.701389,
+			"latitude" : -6.914056
+		},
+		{
+			"id" : "M073",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.687389,
+			"latitude" : -6.964417
+		},
+		{
+			"id" : "M074",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.663556,
+			"latitude" : -6.943694
+		},
+		{
+			"id" : "M075",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.7093,
+			"latitude" : -6.92215
+		},
+		{
+			"id" : "M076",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.601,
+			"latitude" : -6.92046
+		},
+		{
+			"id" : "M077",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.590944,
+			"latitude" : -6.906972
+		},
+		{
+			"id" : "M078",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.59768,
+			"latitude" : -6.91071
+		},
+		{
+			"id" : "M079",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.589222,
+			"latitude" : -6.933639
+		},
+		{
+			"id" : "M080",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.591583,
+			"latitude" : -6.9135
+		},
+		{
+			"id" : "M081",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.581167,
+			"latitude" : -6.929083
+		},
+		{
+			"id" : "M082",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.60827,
+			"latitude" : -6.889554
+		},
+		{
+			"id" : "M083",
+			"pemilik" : "TELKOMSEL",
+			"shortname" : "telkomsel",
+			"longitude" : 107.64184,
+			"latitude" : -6.93769
+		},
+		{
+			"id" : "M084",
+			"pemilik" : "MORATEL",
+			"shortname" : "moratel",
+			"longitude" : 107.6873,
+			"latitude" : -6.9325
+		},
+		{
+			"id" : "M085",
+			"pemilik" : "PT.STI",
+			"shortname" : "sti",
+			"longitude" : 107.639417,
+			"latitude" : -6.91025
+		},
+		{
+			"id" : "M086",
+			"pemilik" : "PT.STI",
+			"shortname" : "sti",
+			"longitude" : 107.574972,
+			"latitude" : -6.917472
+		},
+		{
+			"id" : "M087",
+			"pemilik" : "DTF",
+			"shortname" : "dtf",
+			"longitude" : 107.6516,
+			"latitude" : -6.89429
+		},
+		{
+			"id" : "M088",
+			"pemilik" : "DTF",
+			"shortname" : "dtf",
+			"longitude" : 107.62465,
+			"latitude" : -6.92519
+		},
+		{
+			"id" : "M089",
+			"pemilik" : "TELCOINDO",
+			"shortname" : "telcoindo",
+			"longitude" : 107.59391,
+			"latitude" : -6.87841
+		},
+		{
+			"id" : "M090",
+			"pemilik" : "RETOWER ASIA",
+			"shortname" : "retower-asia",
+			"longitude" : 107.66594,
+			"latitude" : -6.90363
+		},
+		{
+			"id" : "M091",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.55415,
+			"latitude" : -6.93449
+		},
+		{
+			"id" : "M092",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.56596,
+			"latitude" : -6.95125
+		},
+		{
+			"id" : "M093",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59441,
+			"latitude" : -6.85727
+		},
+		{
+			"id" : "M094",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.62264,
+			"latitude" : -6.95706
+		},
+		{
+			"id" : "M095",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.66123,
+			"latitude" : -6.88764
+		},
+		{
+			"id" : "M096",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58442,
+			"latitude" : -6.86205
+		},
+		{
+			"id" : "M097",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.56986,
+			"latitude" : -6.92094
+		},
+		{
+			"id" : "M098",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.5584,
+			"latitude" : -6.88904
+		},
+		{
+			"id" : "M099",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58786,
+			"latitude" : -6.91421
+		},
+		{
+			"id" : "M100",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59806,
+			"latitude" : -6.91203
+		},
+		{
+			"id" : "M101",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59279,
+			"latitude" : -6.9328
+		},
+		{
+			"id" : "M102",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58447,
+			"latitude" : -6.92164
+		},
+		{
+			"id" : "M103",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59381,
+			"latitude" : -6.92174
+		},
+		{
+			"id" : "M104",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.602,
+			"latitude" : -6.92021
+		},
+		{
+			"id" : "M105",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58829,
+			"latitude" : -6.92616
+		},
+		{
+			"id" : "M106",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60532,
+			"latitude" : -6.92704
+		},
+		{
+			"id" : "M107",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.6144,
+			"latitude" : -6.92764
+		},
+		{
+			"id" : "M108",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.6022,
+			"latitude" : -6.93495
+		},
+		{
+			"id" : "M109",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.6045,
+			"latitude" : -6.91615
+		},
+		{
+			"id" : "M110",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.61948,
+			"latitude" : -6.92172
+		},
+		{
+			"id" : "M111",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.62022,
+			"latitude" : -6.90981
+		},
+		{
+			"id" : "M112",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.63497,
+			"latitude" : -6.9134
+		},
+		{
+			"id" : "M113",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.5971,
+			"latitude" : -6.89732
+		},
+		{
+			"id" : "M114",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60092,
+			"latitude" : -6.89057
+		},
+		{
+			"id" : "M115",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60561,
+			"latitude" : -6.88409
+		},
+		{
+			"id" : "M116",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60822,
+			"latitude" : -6.90977
+		},
+		{
+			"id" : "M117",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60464,
+			"latitude" : -6.90153
+		},
+		{
+			"id" : "M118",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.57325,
+			"latitude" : -6.94379
+		},
+		{
+			"id" : "M119",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58108,
+			"latitude" : -6.88231
+		},
+		{
+			"id" : "M120",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58798,
+			"latitude" : -6.87576
+		},
+		{
+			"id" : "M121",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60639,
+			"latitude" : -6.86249
+		},
+		{
+			"id" : "M122",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60541,
+			"latitude" : -6.87053
+		},
+		{
+			"id" : "M123",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.62793,
+			"latitude" : -6.87574
+		},
+		{
+			"id" : "M124",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.65671,
+			"latitude" : -6.90223
+		},
+		{
+			"id" : "M125",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.68783,
+			"latitude" : -6.92155
+		},
+		{
+			"id" : "M126",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.65483,
+			"latitude" : -6.92168
+		},
+		{
+			"id" : "M127",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.68156,
+			"latitude" : -6.93643
+		},
+		{
+			"id" : "M128",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.65773,
+			"latitude" : -6.95865
+		},
+		{
+			"id" : "M129",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.68476,
+			"latitude" : -6.96576
+		},
+		{
+			"id" : "M130",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58098,
+			"latitude" : -6.95185
+		},
+		{
+			"id" : "M131",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59291,
+			"latitude" : -6.96207
+		},
+		{
+			"id" : "M132",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.70982,
+			"latitude" : -6.92489
+		},
+		{
+			"id" : "M133",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.6995,
+			"latitude" : -6.9355
+		},
+		{
+			"id" : "M134",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.68692,
+			"latitude" : -6.95372
+		},
+		{
+			"id" : "M135",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59979,
+			"latitude" : -6.9532
+		},
+		{
+			"id" : "M136",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58844,
+			"latitude" : -6.89122
+		},
+		{
+			"id" : "M137",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.57296,
+			"latitude" : -6.9308
+		},
+		{
+			"id" : "M138",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.61964,
+			"latitude" : -6.88577
+		},
+		{
+			"id" : "M139",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.62395,
+			"latitude" : -6.85392
+		},
+		{
+			"id" : "M140",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.62442,
+			"latitude" : -6.86768
+		},
+		{
+			"id" : "M141",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.67207,
+			"latitude" : -6.91903
+		},
+		{
+			"id" : "M142",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.6656,
+			"latitude" : -6.96413
+		},
+		{
+			"id" : "M143",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.67649,
+			"latitude" : -6.94733
+		},
+		{
+			"id" : "M144",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.64388,
+			"latitude" : -6.90798
+		},
+		{
+			"id" : "M145",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.66432,
+			"latitude" : -6.9087
+		},
+		{
+			"id" : "M146",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.7119,
+			"latitude" : -6.9118
+		},
+		{
+			"id" : "M147",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59433,
+			"latitude" : -6.85071
+		},
+		{
+			"id" : "M148",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.67617,
+			"latitude" : -6.89659
+		},
+		{
+			"id" : "M149",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60317,
+			"latitude" : -6.94337
+		},
+		{
+			"id" : "M150",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.57306,
+			"latitude" : -6.89499
+		},
+		{
+			"id" : "M151",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59703,
+			"latitude" : -6.8661
+		},
+		{
+			"id" : "M152",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.58745,
+			"latitude" : -6.89617
+		},
+		{
+			"id" : "M153",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.626944,
+			"latitude" : -6.950278
+		},
+		{
+			"id" : "M154",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.581667,
+			"latitude" : -6.8725
+		},
+		{
+			"id" : "M155",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.580278,
+			"latitude" : -6.955278
+		},
+		{
+			"id" : "M156",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.681389,
+			"latitude" : -6.928889
+		},
+		{
+			"id" : "M157",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.600833,
+			"latitude" : -6.905
+		},
+		{
+			"id" : "M158",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.595556,
+			"latitude" : -6.886111
+		},
+		{
+			"id" : "M159",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.598889,
+			"latitude" : -6.864167
+		},
+		{
+			"id" : "M160",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.649457,
+			"latitude" : -6.92977
+		},
+		{
+			"id" : "M161",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.618056,
+			"latitude" : -6.914444
+		},
+		{
+			"id" : "M162",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.608889,
+			"latitude" : -6.900833
+		},
+		{
+			"id" : "M163",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.637778,
+			"latitude" : -6.904444
+		},
+		{
+			"id" : "M164",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.591894,
+			"latitude" : -6.916255
+		},
+		{
+			"id" : "M165",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.580833,
+			"latitude" : -6.918889
+		},
+		{
+			"id" : "M166",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.643822,
+			"latitude" : -6.923716
+		},
+		{
+			"id" : "M167",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.636944,
+			"latitude" : -6.931944
+		},
+		{
+			"id" : "M168",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.611944,
+			"latitude" : -6.906944
+		},
+		{
+			"id" : "M169",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.626389,
+			"latitude" : -6.909444
+		},
+		{
+			"id" : "M170",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.603889,
+			"latitude" : -6.865278
+		},
+		{
+			"id" : "M171",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.605626,
+			"latitude" : -6.927148
+		},
+		{
+			"id" : "M172",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.677024,
+			"latitude" : -6.945752
+		},
+		{
+			"id" : "M173",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.61,
+			"latitude" : -6.888333
+		},
+		{
+			"id" : "M174",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.672393,
+			"latitude" : -6.907173
+		},
+		{
+			"id" : "M175",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.612222,
+			"latitude" : -6.879722
+		},
+		{
+			"id" : "M176",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.613,
+			"latitude" : -6.93543
+		},
+		{
+			"id" : "M177",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.608056,
+			"latitude" : -6.915278
+		},
+		{
+			"id" : "M178",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.648056,
+			"latitude" : -6.950278
+		},
+		{
+			"id" : "M179",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.640833,
+			"latitude" : -6.896111
+		},
+		{
+			"id" : "M180",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.589722,
+			"latitude" : -6.895
+		},
+		{
+			"id" : "M181",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.626111,
+			"latitude" : -6.926111
+		},
+		{
+			"id" : "M182",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.593333,
+			"latitude" : -6.871111
+		},
+		{
+			"id" : "M183",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.609759,
+			"latitude" : -6.932464
+		},
+		{
+			"id" : "M184",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.598333,
+			"latitude" : -6.938056
+		},
+		{
+			"id" : "M185",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.660833,
+			"latitude" : -6.9425
+		},
+		{
+			"id" : "M186",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.564722,
+			"latitude" : -6.950556
+		},
+		{
+			"id" : "M187",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.659722,
+			"latitude" : -6.913056
+		},
+		{
+			"id" : "M188",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.711944,
+			"latitude" : -6.924444
+		},
+		{
+			"id" : "M189",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.61197,
+			"latitude" : -6.91102
+		},
+		{
+			"id" : "M190",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.661584,
+			"latitude" : -6.960578
+		},
+		{
+			"id" : "M191",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.594444,
+			"latitude" : -6.949444
+		},
+		{
+			"id" : "M192",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.570278,
+			"latitude" : -6.931111
+		},
+		{
+			"id" : "M193",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.614866,
+			"latitude" : -6.944975
+		},
+		{
+			"id" : "M194",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.582754,
+			"latitude" : -6.93845
+		},
+		{
+			"id" : "M195",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.694167,
+			"latitude" : -6.935556
+		},
+		{
+			"id" : "M196",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.691111,
+			"latitude" : -6.903889
+		},
+		{
+			"id" : "M197",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.633889,
+			"latitude" : -6.913333
+		},
+		{
+			"id" : "M198",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.689444,
+			"latitude" : -6.941944
+		},
+		{
+			"id" : "M199",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.594199,
+			"latitude" : -6.850761
+		},
+		{
+			"id" : "M200",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.62,
+			"latitude" : -6.898889
+		},
+		{
+			"id" : "M201",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.58343,
+			"latitude" : -6.8617
+		},
+		{
+			"id" : "M202",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.568056,
+			"latitude" : -6.908333
+		},
+		{
+			"id" : "M203",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.581111,
+			"latitude" : -6.885278
+		},
+		{
+			"id" : "M204",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.5975,
+			"latitude" : -6.894722
+		},
+		{
+			"id" : "M205",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.603519,
+			"latitude" : -6.890384
+		},
+		{
+			"id" : "M206",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.611111,
+			"latitude" : -6.893889
+		},
+		{
+			"id" : "M207",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.606667,
+			"latitude" : -6.921389
+		},
+		{
+			"id" : "M208",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.586111,
+			"latitude" : -6.909444
+		},
+		{
+			"id" : "M209",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.604722,
+			"latitude" : -6.915278
+		},
+		{
+			"id" : "M210",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.597886,
+			"latitude" : -6.918194
+		},
+		{
+			"id" : "M211",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.610556,
+			"latitude" : -6.904167
+		},
+		{
+			"id" : "M212",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.625556,
+			"latitude" : -6.9175
+		},
+		{
+			"id" : "M213",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.599167,
+			"latitude" : -6.925278
+		},
+		{
+			"id" : "M214",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.598056,
+			"latitude" : -6.910278
+		},
+		{
+			"id" : "M215",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.576456,
+			"latitude" : -6.919594
+		},
+		{
+			"id" : "M216",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.603889,
+			"latitude" : -6.929722
+		},
+		{
+			"id" : "M217",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.604444,
+			"latitude" : -6.923333
+		},
+		{
+			"id" : "M218",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.688776,
+			"latitude" : -6.910249
+		},
+		{
+			"id" : "M219",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.646149,
+			"latitude" : -6.90002
+		},
+		{
+			"id" : "M220",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.60529,
+			"latitude" : -6.87083
+		},
+		{
+			"id" : "M221",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.619722,
+			"latitude" : -6.887222
+		},
+		{
+			"id" : "M222",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.649693,
+			"latitude" : -6.905204
+		},
+		{
+			"id" : "M223",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.6875,
+			"latitude" : -6.957639
+		},
+		{
+			"id" : "M224",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.698278,
+			"latitude" : -6.924139
+		},
+		{
+			"id" : "M225",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.634611,
+			"latitude" : -6.900167
+		},
+		{
+			"id" : "M226",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.675,
+			"latitude" : -6.898611
+		},
+		{
+			"id" : "M227",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.648974,
+			"latitude" : -6.911523
+		},
+		{
+			"id" : "M228",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.62,
+			"latitude" : -6.906389
+		},
+		{
+			"id" : "M229",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.649178,
+			"latitude" : -6.944233
+		},
+		{
+			"id" : "M230",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.570833,
+			"latitude" : -6.940278
+		},
+		{
+			"id" : "M231",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.65807,
+			"latitude" : -6.90199
+		},
+		{
+			"id" : "M232",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.66292,
+			"latitude" : -6.93439
+		},
+		{
+			"id" : "M233",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.601111,
+			"latitude" : -6.920278
+		},
+		{
+			"id" : "M234",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.607222,
+			"latitude" : -6.938333
+		},
+		{
+			"id" : "M235",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.599722,
+			"latitude" : -6.891111
+		},
+		{
+			"id" : "M236",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.596142,
+			"latitude" : -6.863667
+		},
+		{
+			"id" : "M237",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.609759,
+			"latitude" : -6.932464
+		},
+		{
+			"id" : "M238",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.625,
+			"latitude" : -6.8669
+		},
+		{
+			"id" : "M239",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.614306,
+			"latitude" : -6.927917
+		},
+		{
+			"id" : "M240",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.591389,
+			"latitude" : -6.864444
+		},
+		{
+			"id" : "M241",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.658056,
+			"latitude" : -6.901944
+		},
+		{
+			"id" : "M242",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.579083,
+			"latitude" : -6.882139
+		},
+		{
+			"id" : "M243",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.659167,
+			"latitude" : -6.943056
+		},
+		{
+			"id" : "M244",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.622276,
+			"latitude" : -6.95597
+		},
+		{
+			"id" : "M245",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.671111,
+			"latitude" : -6.959722
+		},
+		{
+			"id" : "M246",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.6605,
+			"latitude" : -6.926277
+		},
+		{
+			"id" : "M247",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.60922,
+			"latitude" : -6.96095
+		},
+		{
+			"id" : "M248",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.723611,
+			"latitude" : -6.919444
+		},
+		{
+			"id" : "M249",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.601999,
+			"latitude" : -6.84661
+		},
+		{
+			"id" : "M250",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.5571,
+			"latitude" : -6.92974
+		},
+		{
+			"id" : "M251",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.58821,
+			"latitude" : -6.87985
+		},
+		{
+			"id" : "M252",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.615196,
+			"latitude" : -6.868994
+		},
+		{
+			"id" : "M253",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.66094,
+			"latitude" : -6.89503
+		},
+		{
+			"id" : "M254",
+			"pemilik" : "SMI",
+			"shortname" : "smi",
+			"longitude" : 107.5583,
+			"latitude" : -6.889384
+		},
+		{
+			"id" : "M255",
+			"pemilik" : "NETWAVE",
+			"shortname" : "netwave",
+			"longitude" : 107.656303,
+			"latitude" : -6.924584
+		},
+		{
+			"id" : "M256",
+			"pemilik" : "NETWAVE",
+			"shortname" : "netwave",
+			"longitude" : 107.61759,
+			"latitude" : -6.89782
+		},
+		{
+			"id" : "M257",
+			"pemilik" : "PT. GLOBAL INDONESIA KOMUNIKATAMA",
+			"shortname" : "global-indonesia-komunikatama",
+			"longitude" : 107.57422,
+			"latitude" : -6.915651
+		},
+		{
+			"id" : "M258",
+			"pemilik" : "PT. GLOBAL INDONESIA KOMUNIKATAMA",
+			"shortname" : "global-indonesia-komunikatama",
+			"longitude" : 107.639911,
+			"latitude" : -6.954464
+		},
+		{
+			"id" : "M259",
+			"pemilik" : "PT. GLOBAL INDONESIA KOMUNIKATAMA",
+			"shortname" : "global-indonesia-komunikatama",
+			"longitude" : 107.6611,
+			"latitude" : -6.91732
+		},
+		{
+			"id" : "M260",
+			"pemilik" : "PT. GLOBAL INDONESIA KOMUNIKATAMA",
+			"shortname" : "global-indonesia-komunikatama",
+			"longitude" : 107.65898,
+			"latitude" : -6.920716
+		},
+		{
+			"id" : "M261",
+			"pemilik" : "PT. GLOBAL INDONESIA KOMUNIKATAMA",
+			"shortname" : "global-indonesia-komunikatama",
+			"longitude" : 107.592,
+			"latitude" : -6.8671
+		},
+		{
+			"id" : "M262",
+			"pemilik" : "PT. GLOBAL INDONESIA KOMUNIKATAMA",
+			"shortname" : "global-indonesia-komunikatama",
+			"longitude" : 107.627286,
+			"latitude" : -6.909999
+		},
+		{
+			"id" : "M263",
+			"pemilik" : "PT. SARANA INTI PERSADA",
+			"shortname" : "sarana-inti-persada",
+			"longitude" : 107.708512,
+			"latitude" : -6.92141
+		},
+		{
+			"id" : "M264",
+			"pemilik" : "PT. SARANA INTI PERSADA",
+			"shortname" : "sarana-inti-persada",
+			"longitude" : 107.622914,
+			"latitude" : -6.95121
+		},
+		{
+			"id" : "M265",
+			"pemilik" : "PT. SARANA INTI PERSADA",
+			"shortname" : "sarana-inti-persada",
+			"longitude" : 107.58072,
+			"latitude" : -6.88693
+		},
+		{
+			"id" : "M266",
+			"pemilik" : "PT. SARANA INTI PERSADA",
+			"shortname" : "sarana-inti-persada",
+			"longitude" : 107.6993,
+			"latitude" : -6.93426
+		},
+		{
+			"id" : "M267",
+			"pemilik" : "PT. SARANA INTI PERSADA",
+			"shortname" : "sarana-inti-persada",
+			"longitude" : 107.647528,
+			"latitude" : -6.906639
+		},
+		{
+			"id" : "M268",
+			"pemilik" : "PT. SARANA INTI PERSADA",
+			"shortname" : "sarana-inti-persada",
+			"longitude" : 107.616028,
+			"latitude" : -6.951944
+		},
+		{
+			"id" : "M269",
+			"pemilik" : "PT. TRITUNGGAL PUTERA PERKASA",
+			"shortname" : "tritunggal-pp",
+			"longitude" : 107.66177,
+			"latitude" : -6.95054
+		},
+		{
+			"id" : "M270",
+			"pemilik" : "PT. TRITUNGGAL PUTERA PERKASA",
+			"shortname" : "tritunggal-pp",
+			"longitude" : 107.642428,
+			"latitude" : -6.942448
+		},
+		{
+			"id" : "M271",
+			"pemilik" : "PT. TRITUNGGAL PUTERA PERKASA",
+			"shortname" : "tritunggal-pp",
+			"longitude" : 107.566,
+			"latitude" : -6.9409
+		},
+		{
+			"id" : "M272",
+			"pemilik" : "NETWAVE",
+			"shortname" : "netwave",
+			"longitude" : 107.656303,
+			"latitude" : -6.924584
+		},
+		{
+			"id" : "M273",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.6108,
+			"latitude" : -6.93494
+		},
+		{
+			"id" : "M274",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.63,
+			"latitude" : -6.95692
+		},
+		{
+			"id" : "M275",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.597,
+			"latitude" : -6.93142
+		},
+		{
+			"id" : "M276",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.600083,
+			"latitude" : -6.937056
+		},
+		{
+			"id" : "M277",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.633,
+			"latitude" : -6.92847
+		},
+		{
+			"id" : "M278",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.599307,
+			"latitude" : -6.950258
+		},
+		{
+			"id" : "M279",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.66531,
+			"latitude" : -6.90341
+		},
+		{
+			"id" : "M280",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.613967,
+			"latitude" : -6.87322
+		},
+		{
+			"id" : "M281",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.58937,
+			"latitude" : -6.90009
+		},
+		{
+			"id" : "M282",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.67868,
+			"latitude" : -6.9348
+		},
+		{
+			"id" : "M283",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.597319,
+			"latitude" : -6.866123
+		},
+		{
+			"id" : "M284",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.57487,
+			"latitude" : -6.88395
+		},
+		{
+			"id" : "M285",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.617025,
+			"latitude" : -6.89317
+		},
+		{
+			"id" : "M286",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.61056,
+			"latitude" : -6.90284
+		},
+		{
+			"id" : "M287",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.60674,
+			"latitude" : -6.87827
+		},
+		{
+			"id" : "M288",
+			"pemilik" : "JAVA INDOKU",
+			"shortname" : "java-indoku",
+			"longitude" : 107.64321,
+			"latitude" : -6.96514
+		},
+		{
+			"id" : "M289",
+			"pemilik" : "NARAGITA",
+			"shortname" : "naragita",
+			"longitude" : 107.6104,
+			"latitude" : -6.9101
+		},
+		{
+			"id" : "M290",
+			"pemilik" : "NARAGITA",
+			"shortname" : "naragita",
+			"longitude" : 107.65203,
+			"latitude" : -6.96254
+		},
+		{
+			"id" : "M291",
+			"pemilik" : "NARAGITA",
+			"shortname" : "naragita",
+			"longitude" : 107.60992,
+			"latitude" : -6.93095
+		},
+		{
+			"id" : "M292",
+			"pemilik" : "PT. KOMET",
+			"shortname" : "komet",
+			"longitude" : 107.59459,
+			"latitude" : -6.85532
+		},
+		{
+			"id" : "M293",
+			"pemilik" : "PT. KOMET",
+			"shortname" : "komet",
+			"longitude" : 107.611,
+			"latitude" : -6.89401
+		},
+		{
+			"id" : "M294",
+			"pemilik" : "PT. KOMET",
+			"shortname" : "komet",
+			"longitude" : 107.69586,
+			"latitude" : -6.91606
+		},
+		{
+			"id" : "M295",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOM )",
+			"shortname" : "dayamitra02",
+			"longitude" : 107.5892,
+			"latitude" : -6.8702
+		},
+		{
+			"id" : "M296",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOM )",
+			"shortname" : "dayamitra02",
+			"longitude" : 107.6021,
+			"latitude" : -6.883
+		},
+		{
+			"id" : "M297",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOM )",
+			"shortname" : "dayamitra02",
+			"longitude" : 107.6109,
+			"latitude" : -6.9166
+		},
+		{
+			"id" : "M298",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOM )",
+			"shortname" : "dayamitra02",
+			"longitude" : 107.6319,
+			"latitude" : -6.9341
+		},
+		{
+			"id" : "M299",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOM )",
+			"shortname" : "dayamitra02",
+			"longitude" : 107.6145,
+			"latitude" : -6.9569
+		},
+		{
+			"id" : "M300",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOM )",
+			"shortname" : "dayamitra02",
+			"longitude" : 107.6714,
+			"latitude" : -6.9654
+		},
+		{
+			"id" : "M301",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.618,
+			"latitude" : -6.92234
+		},
+		{
+			"id" : "M302",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.604,
+			"latitude" : -6.89375
+		},
+		{
+			"id" : "M303",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.626,
+			"latitude" : -6.9317
+		},
+		{
+			"id" : "M304",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.631,
+			"latitude" : -6.94244
+		},
+		{
+			"id" : "M305",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.607,
+			"latitude" : -6.92771
+		},
+		{
+			"id" : "M306",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.613,
+			"latitude" : -6.9276
+		},
+		{
+			"id" : "M307",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.62,
+			"latitude" : -6.89602
+		},
+		{
+			"id" : "M308",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.676,
+			"latitude" : -6.8988
+		},
+		{
+			"id" : "M309",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.624,
+			"latitude" : -6.91516
+		},
+		{
+			"id" : "M310",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.627,
+			"latitude" : -6.9243
+		},
+		{
+			"id" : "M311",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.604,
+			"latitude" : -6.90425
+		},
+		{
+			"id" : "M312",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.609,
+			"latitude" : -6.90059
+		},
+		{
+			"id" : "M313",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.617,
+			"latitude" : -6.93759
+		},
+		{
+			"id" : "M314",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.607,
+			"latitude" : -6.87447
+		},
+		{
+			"id" : "M315",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.586,
+			"latitude" : -6.91861
+		},
+		{
+			"id" : "M316",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.597,
+			"latitude" : -6.89532
+		},
+		{
+			"id" : "M317",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.63,
+			"latitude" : -6.90547
+		},
+		{
+			"id" : "M318",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.572,
+			"latitude" : -6.93444
+		},
+		{
+			"id" : "M319",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.59,
+			"latitude" : -6.94633
+		},
+		{
+			"id" : "M320",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.593,
+			"latitude" : -6.91969
+		},
+		{
+			"id" : "M321",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.615,
+			"latitude" : -6.91264
+		},
+		{
+			"id" : "M322",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.595,
+			"latitude" : -6.93741
+		},
+		{
+			"id" : "M323",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.682,
+			"latitude" : -6.93969
+		},
+		{
+			"id" : "M324",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.6,
+			"latitude" : -6.92511
+		},
+		{
+			"id" : "M325",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.691,
+			"latitude" : -6.92476
+		},
+		{
+			"id" : "M326",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.661,
+			"latitude" : -6.95218
+		},
+		{
+			"id" : "M327",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.646,
+			"latitude" : -6.89683
+		},
+		{
+			"id" : "M328",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.597,
+			"latitude" : -6.90056
+		},
+		{
+			"id" : "M329",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.652,
+			"latitude" : -6.93066
+		},
+		{
+			"id" : "M330",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.673,
+			"latitude" : -6.9192
+		},
+		{
+			"id" : "M331",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.596,
+			"latitude" : -6.87345
+		},
+		{
+			"id" : "M332",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.58,
+			"latitude" : -6.95937
+		},
+		{
+			"id" : "M333",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.634,
+			"latitude" : -6.9615
+		},
+		{
+			"id" : "M334",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.596,
+			"latitude" : -6.84011
+		},
+		{
+			"id" : "M335",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.722,
+			"latitude" : -6.93369
+		},
+		{
+			"id" : "M336",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.678,
+			"latitude" : -6.92906
+		},
+		{
+			"id" : "M337",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.581,
+			"latitude" : -6.93836
+		},
+		{
+			"id" : "M338",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.619,
+			"latitude" : -6.89008
+		},
+		{
+			"id" : "M339",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.586,
+			"latitude" : -6.91036
+		},
+		{
+			"id" : "M340",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.703,
+			"latitude" : -6.93581
+		},
+		{
+			"id" : "M341",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.614,
+			"latitude" : -6.95644
+		},
+		{
+			"id" : "M342",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.597,
+			"latitude" : -6.8885
+		},
+		{
+			"id" : "M343",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.596,
+			"latitude" : -6.86144
+		},
+		{
+			"id" : "M344",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.582,
+			"latitude" : -6.87039
+		},
+		{
+			"id" : "M345",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.593,
+			"latitude" : -6.9557
+		},
+		{
+			"id" : "M346",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.715,
+			"latitude" : -6.9458
+		},
+		{
+			"id" : "M347",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.654,
+			"latitude" : -6.95636
+		},
+		{
+			"id" : "M348",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.636,
+			"latitude" : -6.93333
+		},
+		{
+			"id" : "M349",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.657,
+			"latitude" : -6.92453
+		},
+		{
+			"id" : "M350",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.623,
+			"latitude" : -6.9567
+		},
+		{
+			"id" : "M351",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.557,
+			"latitude" : -6.92972
+		},
+		{
+			"id" : "M352",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.678,
+			"latitude" : -6.9505
+		},
+		{
+			"id" : "M353",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.617,
+			"latitude" : -6.93131
+		},
+		{
+			"id" : "M354",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.644,
+			"latitude" : -6.92911
+		},
+		{
+			"id" : "M355",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.585,
+			"latitude" : -6.95241
+		},
+		{
+			"id" : "M356",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.58,
+			"latitude" : -6.92333
+		},
+		{
+			"id" : "M357",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.584,
+			"latitude" : -6.86243
+		},
+		{
+			"id" : "M358",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.573,
+			"latitude" : -6.91968
+		},
+		{
+			"id" : "M359",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.611,
+			"latitude" : -6.87822
+		},
+		{
+			"id" : "M360",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.624,
+			"latitude" : -6.85356
+		},
+		{
+			"id" : "M361",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.566,
+			"latitude" : -6.9409
+		},
+		{
+			"id" : "M362",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.565,
+			"latitude" : -6.92325
+		},
+		{
+			"id" : "M363",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.645,
+			"latitude" : -6.92183
+		},
+		{
+			"id" : "M364",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.637,
+			"latitude" : -6.92506
+		},
+		{
+			"id" : "M365",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.679,
+			"latitude" : -6.91067
+		},
+		{
+			"id" : "M366",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.644,
+			"latitude" : -6.94923
+		},
+		{
+			"id" : "M367",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.603,
+			"latitude" : -6.95653
+		},
+		{
+			"id" : "M368",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.626,
+			"latitude" : -6.86731
+		},
+		{
+			"id" : "M369",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.604,
+			"latitude" : -6.86533
+		},
+		{
+			"id" : "M370",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.585,
+			"latitude" : -6.89439
+		},
+		{
+			"id" : "M371",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.587,
+			"latitude" : -6.8883
+		},
+		{
+			"id" : "M372",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.603,
+			"latitude" : -6.89822
+		},
+		{
+			"id" : "M373",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.622,
+			"latitude" : -6.87975
+		},
+		{
+			"id" : "M374",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.616,
+			"latitude" : -6.90214
+		},
+		{
+			"id" : "M375",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.612,
+			"latitude" : -6.9065
+		},
+		{
+			"id" : "M376",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.62,
+			"latitude" : -6.90633
+		},
+		{
+			"id" : "M377",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.61,
+			"latitude" : -6.90931
+		},
+		{
+			"id" : "M378",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.655,
+			"latitude" : -6.93928
+		},
+		{
+			"id" : "M379",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.721,
+			"latitude" : -6.91605
+		},
+		{
+			"id" : "M380",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.582,
+			"latitude" : -6.90605
+		},
+		{
+			"id" : "M381",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.576,
+			"latitude" : -6.91241
+		},
+		{
+			"id" : "M382",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.577,
+			"latitude" : -6.94947
+		},
+		{
+			"id" : "M383",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI ( TELKOMSEL RESELLER )",
+			"shortname" : "dayamitra03",
+			"longitude" : 107.639,
+			"latitude" : -6.91052
+		},
+		{
+			"id" : "M384",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.6156,
+			"latitude" : -6.91337
+		},
+		{
+			"id" : "M385",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.62653,
+			"latitude" : -6.92649
+		},
+		{
+			"id" : "M386",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.63112,
+			"latitude" : -6.90558
+		},
+		{
+			"id" : "M387",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.6159,
+			"latitude" : -6.89716
+		},
+		{
+			"id" : "M388",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59464,
+			"latitude" : -6.87222
+		},
+		{
+			"id" : "M389",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59805,
+			"latitude" : -6.92727
+		},
+		{
+			"id" : "M390",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.61041,
+			"latitude" : -6.90606
+		},
+		{
+			"id" : "M391",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.61998,
+			"latitude" : -6.90631
+		},
+		{
+			"id" : "M392",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.60335,
+			"latitude" : -6.89639
+		},
+		{
+			"id" : "M393",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.59685,
+			"latitude" : -6.885
+		},
+		{
+			"id" : "M394",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.57886,
+			"latitude" : -6.90896
+		},
+		{
+			"id" : "M395",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.625,
+			"latitude" : -6.93572
+		},
+		{
+			"id" : "M396",
+			"pemilik" : "AXIS",
+			"shortname" : "axis",
+			"longitude" : 107.62515,
+			"latitude" : -6.89721
+		},
+		{
+			"id" : "M397",
+			"pemilik" : "PT. TRITUNGGAL PUTERA PERKASA",
+			"shortname" : "tritunggal-pp",
+			"longitude" : 107.56611,
+			"latitude" : -6.94091
+		},
+		{
+			"id" : "M398",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.60637,
+			"latitude" : -6.8624
+		},
+		{
+			"id" : "M399",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.67039,
+			"latitude" : -6.92048
+		},
+		{
+			"id" : "M400",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.652,
+			"latitude" : -6.95881
+		},
+		{
+			"id" : "M401",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.58561,
+			"latitude" : -6.90941
+		},
+		{
+			"id" : "M402",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.718489,
+			"latitude" : -6.919309
+		},
+		{
+			"id" : "M403",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.6534,
+			"latitude" : -6.94597
+		},
+		{
+			"id" : "M404",
+			"pemilik" : "PT. NARAGITA DINAMIKA KUMUNIKA",
+			"shortname" : "naragita-dinamika-kumunika",
+			"longitude" : 107.57861,
+			"latitude" : -6.95807
+		},
+		{
+			"id" : "M405",
+			"pemilik" : "PT. NARAGITA DINAMIKA KUMUNIKA",
+			"shortname" : "naragita-dinamika-kumunika",
+			"longitude" : 107.58003,
+			"latitude" : -6.87654
+		},
+		{
+			"id" : "M406",
+			"pemilik" : "PT. NARAGITA DINAMIKA KUMUNIKA",
+			"shortname" : "naragita-dinamika-kumunika",
+			"longitude" : 107.62608,
+			"latitude" : -6.89196
+		},
+		{
+			"id" : "M407",
+			"pemilik" : "PT. NARAGITA DINAMIKA KUMUNIKA",
+			"shortname" : "naragita-dinamika-kumunika",
+			"longitude" : 107.66925,
+			"latitude" : -6.92333
+		},
+		{
+			"id" : "M408",
+			"pemilik" : "PT. NARAGITA DINAMIKA KUMUNIKA",
+			"shortname" : "naragita-dinamika-kumunika",
+			"longitude" : 107.56484,
+			"latitude" : -6.89342
+		},
+		{
+			"id" : "M409",
+			"pemilik" : "PT. NARAGITA DINAMIKA KUMUNIKA",
+			"shortname" : "naragita-dinamika-kumunika",
+			"longitude" : 107.615905,
+			"latitude" : -6.95178
+		},
+		{
+			"id" : "M410",
+			"pemilik" : "PT. NARAGITA DINAMIKA KUMUNIKA",
+			"shortname" : "naragita-dinamika-kumunika",
+			"longitude" : 107.62495,
+			"latitude" : -6.90634
+		},
+		{
+			"id" : "M411",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.61673,
+			"latitude" : -6.92184
+		},
+		{
+			"id" : "M412",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.63421,
+			"latitude" : -6.94823
+		},
+		{
+			"id" : "M413",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.58972,
+			"latitude" : -6.93114
+		},
+		{
+			"id" : "M414",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.610278,
+			"latitude" : -6.916111
+		},
+		{
+			"id" : "M415",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.6438,
+			"latitude" : -6.93125
+		},
+		{
+			"id" : "M416",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.66994,
+			"latitude" : -6.93887
+		},
+		{
+			"id" : "M417",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.62618,
+			"latitude" : -6.88968
+		},
+		{
+			"id" : "M418",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.61395,
+			"latitude" : -6.88549
+		},
+		{
+			"id" : "M419",
+			"pemilik" : "INDOSAT",
+			"shortname" : "indosat",
+			"longitude" : 107.711615,
+			"latitude" : -6.912363
+		},
+		{
+			"id" : "M420",
+			"pemilik" : "PT.RETOWER",
+			"shortname" : "retower",
+			"longitude" : 107.66,
+			"latitude" : -6.966
+		},
+		{
+			"id" : "M421",
+			"pemilik" : "PT.RETOWER",
+			"shortname" : "retower",
+			"longitude" : 107.628167,
+			"latitude" : -6.8877
+		},
+		{
+			"id" : "M422",
+			"pemilik" : "PT.RETOWER",
+			"shortname" : "retower",
+			"longitude" : 107.596558,
+			"latitude" : -6.9063
+		},
+		{
+			"id" : "M423",
+			"pemilik" : "PT.RETOWER",
+			"shortname" : "retower",
+			"longitude" : 107.603333,
+			"latitude" : -6.9174
+		},
+		{
+			"id" : "M424",
+			"pemilik" : "NETWAVE",
+			"shortname" : "netwave",
+			"longitude" : 107.65932,
+			"latitude" : -6.91719
+		},
+		{
+			"id" : "M425",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.68518,
+			"latitude" : -6.89916
+		},
+		{
+			"id" : "M426",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.604447,
+			"latitude" : -6.908712
+		},
+		{
+			"id" : "M427",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.606455,
+			"latitude" : -6.943965
+		},
+		{
+			"id" : "M428",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.58096,
+			"latitude" : -6.865574
+		},
+		{
+			"id" : "M429",
+			"pemilik" : "PT. DAYAMITRA TELEKOMUNIKASI",
+			"shortname" : "dayamitra01",
+			"longitude" : 107.66611,
+			"latitude" : -6.95517
+		},
+		{
+			"id" : "M430",
+			"pemilik" : "PT. TRITUNGGAL PUTERA PERKASA",
+			"shortname" : "tritunggal-pp",
+			"longitude" : 107.57073,
+			"latitude" : -6.93667
+		},
+		{
+			"id" : "M431",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.62586,
+			"latitude" : -6.92827
+		},
+		{
+			"id" : "M432",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.60415,
+			"latitude" : -6.88791
+		},
+		{
+			"id" : "M433",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.62937,
+			"latitude" : -6.88675
+		},
+		{
+			"id" : "M434",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.68852,
+			"latitude" : -6.92072
+		},
+		{
+			"id" : "M435",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.60941,
+			"latitude" : -6.92266
+		},
+		{
+			"id" : "M436",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.60224,
+			"latitude" : -6.8588
+		},
+		{
+			"id" : "M437",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.61904,
+			"latitude" : -6.92625
+		},
+		{
+			"id" : "M438",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.67289,
+			"latitude" : -6.95917
+		},
+		{
+			"id" : "M439",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.66274,
+			"latitude" : -6.91188
+		},
+		{
+			"id" : "M440",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.67012,
+			"latitude" : -6.94492
+		},
+		{
+			"id" : "M441",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.595981,
+			"latitude" : -6.94277
+		},
+		{
+			"id" : "M442",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58212,
+			"latitude" : -6.94532
+		},
+		{
+			"id" : "M443",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58804,
+			"latitude" : -6.87578
+		},
+		{
+			"id" : "M444",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.60303,
+			"latitude" : -6.93071
+		},
+		{
+			"id" : "M445",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.70033,
+			"latitude" : -6.92067
+		},
+		{
+			"id" : "M446",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.72001,
+			"latitude" : -6.92381
+		},
+		{
+			"id" : "M447",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.61989,
+			"latitude" : -6.91126
+		},
+		{
+			"id" : "M448",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.61306,
+			"latitude" : -6.8993
+		},
+		{
+			"id" : "M449",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.68242,
+			"latitude" : -6.92042
+		},
+		{
+			"id" : "M450",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.59793,
+			"latitude" : -6.91726
+		},
+		{
+			"id" : "M451",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.652,
+			"latitude" : -6.91892
+		},
+		{
+			"id" : "M452",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.59438,
+			"latitude" : -6.87999
+		},
+		{
+			"id" : "M453",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.56577,
+			"latitude" : -6.9003
+		},
+		{
+			"id" : "M454",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.64041,
+			"latitude" : -6.95473
+		},
+		{
+			"id" : "M455",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.669,
+			"latitude" : -6.932
+		},
+		{
+			"id" : "M456",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.644,
+			"latitude" : -6.90792
+		},
+		{
+			"id" : "M457",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.669,
+			"latitude" : -6.9505
+		},
+		{
+			"id" : "M458",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.68353,
+			"latitude" : -6.91333
+		},
+		{
+			"id" : "M459",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.65543,
+			"latitude" : -6.91278
+		},
+		{
+			"id" : "M460",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.67951,
+			"latitude" : -6.9574
+		},
+		{
+			"id" : "M461",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58986,
+			"latitude" : -6.85717
+		},
+		{
+			"id" : "M462",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.60234,
+			"latitude" : -6.91667
+		},
+		{
+			"id" : "M463",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.64536,
+			"latitude" : -6.88977
+		},
+		{
+			"id" : "M464",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.671,
+			"latitude" : -6.95976
+		},
+		{
+			"id" : "M465",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.66064,
+			"latitude" : -6.92617
+		},
+		{
+			"id" : "M466",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.72348,
+			"latitude" : -6.91934
+		},
+		{
+			"id" : "M467",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.60195,
+			"latitude" : -6.84656
+		},
+		{
+			"id" : "M468",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.55699,
+			"latitude" : -6.92977
+		},
+		{
+			"id" : "M469",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58827,
+			"latitude" : -6.87984
+		},
+		{
+			"id" : "M470",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.66088,
+			"latitude" : -6.89502
+		},
+		{
+			"id" : "M471",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.55852,
+			"latitude" : -6.8893
+		},
+		{
+			"id" : "M472",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.56183,
+			"latitude" : -6.9484
+		},
+		{
+			"id" : "M473",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.64014,
+			"latitude" : -6.8957
+		},
+		{
+			"id" : "M474",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58591,
+			"latitude" : -6.92713
+		},
+		{
+			"id" : "M475",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.59755,
+			"latitude" : -6.91251
+		},
+		{
+			"id" : "M476",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.57295,
+			"latitude" : -6.89522
+		},
+		{
+			"id" : "M477",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.61816,
+			"latitude" : -6.94398
+		},
+		{
+			"id" : "M478",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.62476,
+			"latitude" : -6.9007
+		},
+		{
+			"id" : "M479",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.69296,
+			"latitude" : -6.93645
+		},
+		{
+			"id" : "M480",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.5893,
+			"latitude" : -6.93359
+		},
+		{
+			"id" : "M481",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.63532,
+			"latitude" : -6.95167
+		},
+		{
+			"id" : "M482",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.66414,
+			"latitude" : -6.92481
+		},
+		{
+			"id" : "M483",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.67633,
+			"latitude" : -6.90061
+		},
+		{
+			"id" : "M484",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.68742,
+			"latitude" : -6.95197
+		},
+		{
+			"id" : "M485",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58917,
+			"latitude" : -6.93867
+		},
+		{
+			"id" : "M486",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.63728,
+			"latitude" : -6.95067
+		},
+		{
+			"id" : "M487",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.56644,
+			"latitude" : -6.92608
+		},
+		{
+			"id" : "M488",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.59939,
+			"latitude" : -6.84714
+		},
+		{
+			"id" : "M489",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.67983,
+			"latitude" : -6.93201
+		},
+		{
+			"id" : "M490",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.63827,
+			"latitude" : -6.91119
+		},
+		{
+			"id" : "M491",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.64215,
+			"latitude" : -6.93693
+		},
+		{
+			"id" : "M492",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.66052,
+			"latitude" : -6.91718
+		},
+		{
+			"id" : "M493",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.66945,
+			"latitude" : -6.94184
+		},
+		{
+			"id" : "M494",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.71562,
+			"latitude" : -6.93823
+		},
+		{
+			"id" : "M495",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58338,
+			"latitude" : -6.94163
+		},
+		{
+			"id" : "M496",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.61973,
+			"latitude" : -6.871
+		},
+		{
+			"id" : "M497",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.70492,
+			"latitude" : -6.96496
+		},
+		{
+			"id" : "M498",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.59758,
+			"latitude" : -6.93803
+		},
+		{
+			"id" : "M499",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.57417,
+			"latitude" : -6.87785
+		},
+		{
+			"id" : "M500",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.653167,
+			"latitude" : -6.947722
+		},
+		{
+			"id" : "M501",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.63689,
+			"latitude" : -6.90363
+		},
+		{
+			"id" : "M502",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.65123,
+			"latitude" : -6.89997
+		},
+		{
+			"id" : "M503",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.71229,
+			"latitude" : -6.9293
+		},
+		{
+			"id" : "M504",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.622639,
+			"latitude" : -6.8737
+		},
+		{
+			"id" : "M505",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.62222,
+			"latitude" : -6.95604
+		},
+		{
+			"id" : "M506",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.60921,
+			"latitude" : -6.9609
+		},
+		{
+			"id" : "M507",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.63704,
+			"latitude" : -6.95002
+		},
+		{
+			"id" : "M508",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58696,
+			"latitude" : -6.86479
+		},
+		{
+			"id" : "M509",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.624861,
+			"latitude" : -6.945528
+		},
+		{
+			"id" : "M510",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.62482,
+			"latitude" : -6.94287
+		},
+		{
+			"id" : "M511",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58069,
+			"latitude" : -6.91864
+		},
+		{
+			"id" : "M512",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.67743,
+			"latitude" : -6.92318
+		},
+		{
+			"id" : "M513",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.70568,
+			"latitude" : -6.91047
+		},
+		{
+			"id" : "M514",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.62039,
+			"latitude" : -6.86635
+		},
+		{
+			"id" : "M515",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.7254,
+			"latitude" : -6.9164
+		},
+		{
+			"id" : "M516",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.57526,
+			"latitude" : -6.93112
+		},
+		{
+			"id" : "M517",
+			"pemilik" : "TBG",
+			"shortname" : "tbg",
+			"longitude" : 107.58535,
+			"latitude" : -6.916
+		},
+		{
+			"id" : "M518",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.70371,
+			"latitude" : -6.90237
+		},
+		{
+			"id" : "M519",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.67153,
+			"latitude" : -6.89247
+		},
+		{
+			"id" : "M520",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.64407,
+			"latitude" : -6.92859
+		},
+		{
+			"id" : "M521",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.59741,
+			"latitude" : -6.89461
+		},
+		{
+			"id" : "M522",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.65462,
+			"latitude" : -6.90291
+		},
+		{
+			"id" : "M523",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.58092,
+			"latitude" : -6.88548
+		},
+		{
+			"id" : "M524",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.69965,
+			"latitude" : -6.92941
+		},
+		{
+			"id" : "M525",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.61802,
+			"latitude" : -6.92283
+		},
+		{
+			"id" : "M526",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.62372,
+			"latitude" : -6.95003
+		},
+		{
+			"id" : "M527",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.5675,
+			"latitude" : -6.9066
+		},
+		{
+			"id" : "M528",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.5859,
+			"latitude" : -6.9077
+		},
+		{
+			"id" : "M529",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.61127,
+			"latitude" : -6.90073
+		},
+		{
+			"id" : "M530",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.62541,
+			"latitude" : -6.93536
+		},
+		{
+			"id" : "M531",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.60842,
+			"latitude" : -6.9446
+		},
+		{
+			"id" : "M532",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.6005,
+			"latitude" : -6.93006
+		},
+		{
+			"id" : "M533",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.63605,
+			"latitude" : -6.95102
+		},
+		{
+			"id" : "M534",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.61913,
+			"latitude" : -6.88534
+		},
+		{
+			"id" : "M535",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.64203,
+			"latitude" : -6.9379
+		},
+		{
+			"id" : "M536",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.61186,
+			"latitude" : -6.92047
+		},
+		{
+			"id" : "M537",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.5869,
+			"latitude" : -6.91904
+		},
+		{
+			"id" : "M538",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.60397,
+			"latitude" : -6.9134
+		},
+		{
+			"id" : "M539",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.64261,
+			"latitude" : -6.91349
+		},
+		{
+			"id" : "M540",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.58877,
+			"latitude" : -6.87788
+		},
+		{
+			"id" : "M541",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.59062,
+			"latitude" : -6.86269
+		},
+		{
+			"id" : "M542",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.58544,
+			"latitude" : -6.89351
+		},
+		{
+			"id" : "M543",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.616,
+			"latitude" : -6.87859
+		},
+		{
+			"id" : "M544",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.595,
+			"latitude" : -6.87242
+		},
+		{
+			"id" : "M545",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.57466,
+			"latitude" : -6.91589
+		},
+		{
+			"id" : "M546",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.59722,
+			"latitude" : -6.94111
+		},
+		{
+			"id" : "M547",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.68047,
+			"latitude" : -6.91161
+		},
+		{
+			"id" : "M548",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.6774,
+			"latitude" : -6.95385
+		},
+		{
+			"id" : "M549",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.60442,
+			"latitude" : -6.92315
+		},
+		{
+			"id" : "M550",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.60664,
+			"latitude" : -6.86722
+		},
+		{
+			"id" : "M551",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.63631,
+			"latitude" : -6.93844
+		},
+		{
+			"id" : "M552",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.63363,
+			"latitude" : -6.90002
+		},
+		{
+			"id" : "M553",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.70851,
+			"latitude" : -6.92141
+		},
+		{
+			"id" : "M554",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.62291,
+			"latitude" : -6.95121
+		},
+		{
+			"id" : "M555",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.58072,
+			"latitude" : -6.88693
+		},
+		{
+			"id" : "M556",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.6993,
+			"latitude" : -6.93426
+		},
+		{
+			"id" : "M557",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.64753,
+			"latitude" : -6.90664
+		},
+		{
+			"id" : "M558",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.61603,
+			"latitude" : -6.95194
+		},
+		{
+			"id" : "M559",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.62675,
+			"latitude" : -6.95261
+		},
+		{
+			"id" : "M560",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.58118,
+			"latitude" : -6.88159
+		},
+		{
+			"id" : "M561",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.64531,
+			"latitude" : -6.93953
+		},
+		{
+			"id" : "M562",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.63358,
+			"latitude" : -6.92601
+		},
+		{
+			"id" : "M563",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.6265,
+			"latitude" : -6.93461
+		},
+		{
+			"id" : "M564",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.617,
+			"latitude" : -6.92478
+		},
+		{
+			"id" : "M565",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.62831,
+			"latitude" : -6.90015
+		},
+		{
+			"id" : "M566",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.56656,
+			"latitude" : -6.94101
+		},
+		{
+			"id" : "M567",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.67709,
+			"latitude" : -6.93692
+		},
+		{
+			"id" : "M568",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.60677,
+			"latitude" : -6.93482
+		},
+		{
+			"id" : "M569",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.64388,
+			"latitude" : -6.90798
+		},
+		{
+			"id" : "M570",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.60469,
+			"latitude" : -6.89294
+		},
+		{
+			"id" : "M571",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.59353,
+			"latitude" : -6.91636
+		},
+		{
+			"id" : "M572",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.6877,
+			"latitude" : -6.912
+		},
+		{
+			"id" : "M573",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.68971,
+			"latitude" : -6.91775
+		},
+		{
+			"id" : "M574",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.61433,
+			"latitude" : -6.91083
+		},
+		{
+			"id" : "M575",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.61037,
+			"latitude" : -6.90414
+		},
+		{
+			"id" : "M576",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.65988,
+			"latitude" : -6.92658
+		},
+		{
+			"id" : "M577",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.65508,
+			"latitude" : -6.92678
+		},
+		{
+			"id" : "M578",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.706,
+			"latitude" : -6.95222
+		},
+		{
+			"id" : "M579",
+			"pemilik" : "STP",
+			"shortname" : "stp",
+			"longitude" : 107.59564,
+			"latitude" : -6.89177
+		},
+		{
+			"id" : "M580",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.605,
+			"latitude" : -6.9224
+		},
+		{
+			"id" : "M581",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6171,
+			"latitude" : -6.9197
+		},
+		{
+			"id" : "M582",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5983,
+			"latitude" : -6.9151
+		},
+		{
+			"id" : "M583",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.611,
+			"latitude" : -6.8944
+		},
+		{
+			"id" : "M584",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.7062,
+			"latitude" : -6.9087
+		},
+		{
+			"id" : "M585",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5854,
+			"latitude" : -6.8936
+		},
+		{
+			"id" : "M586",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5834,
+			"latitude" : -6.9153
+		},
+		{
+			"id" : "M587",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6327,
+			"latitude" : -6.9246
+		},
+		{
+			"id" : "M588",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5761,
+			"latitude" : -6.9199
+		},
+		{
+			"id" : "M589",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5879,
+			"latitude" : -6.9504
+		},
+		{
+			"id" : "M590",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5967,
+			"latitude" : -6.9253
+		},
+		{
+			"id" : "M591",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5668,
+			"latitude" : -6.9252
+		},
+		{
+			"id" : "M592",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5809,
+			"latitude" : -6.8834
+		},
+		{
+			"id" : "M593",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6104,
+			"latitude" : -6.9518
+		},
+		{
+			"id" : "M594",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6037,
+			"latitude" : -6.9041
+		},
+		{
+			"id" : "M595",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5752,
+			"latitude" : -6.9428
+		},
+		{
+			"id" : "M596",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6873,
+			"latitude" : -6.9325
+		},
+		{
+			"id" : "M597",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.592609,
+			"latitude" : -6.866231
+		},
+		{
+			"id" : "M598",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.619151,
+			"latitude" : -6.870785
+		},
+		{
+			"id" : "M599",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.597264,
+			"latitude" : -6.905406
+		},
+		{
+			"id" : "M600",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.578944,
+			"latitude" : -6.919328
+		},
+		{
+			"id" : "M601",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.604161,
+			"latitude" : -6.88538
+		},
+		{
+			"id" : "M602",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6092,
+			"latitude" : -6.9076
+		},
+		{
+			"id" : "M603",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.5871,
+			"latitude" : -6.9298
+		},
+		{
+			"id" : "M604",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6131,
+			"latitude" : -6.885
+		},
+		{
+			"id" : "M605",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6443,
+			"latitude" : -6.9268
+		},
+		{
+			"id" : "M606",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.603,
+			"latitude" : -6.931
+		},
+		{
+			"id" : "M607",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6092,
+			"latitude" : -6.9076
+		},
+		{
+			"id" : "M608",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.6254,
+			"latitude" : -6.9354
+		},
+		{
+			"id" : "M609",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.58839,
+			"latitude" : -6.86959
+		},
+		{
+			"id" : "M610",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.69976,
+			"latitude" : -6.92273
+		},
+		{
+			"id" : "M611",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.623531,
+			"latitude" : -6.916458
+		},
+		{
+			"id" : "M612",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.632607,
+			"latitude" : -6.897514
+		},
+		{
+			"id" : "M613",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.609,
+			"latitude" : -6.90475
+		},
+		{
+			"id" : "M614",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.613703,
+			"latitude" : -6.894138
+		},
+		{
+			"id" : "M615",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.638162,
+			"latitude" : -6.91475
+		},
+		{
+			"id" : "M616",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.656897,
+			"latitude" : -6.926649
+		},
+		{
+			"id" : "M617",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.644523,
+			"latitude" : -6.94378
+		},
+		{
+			"id" : "M618",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.622562,
+			"latitude" : -6.905696
+		},
+		{
+			"id" : "M619",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.62675,
+			"latitude" : -6.939614
+		},
+		{
+			"id" : "M620",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.610921,
+			"latitude" : -6.91014
+		},
+		{
+			"id" : "M621",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.620394,
+			"latitude" : -6.928933
+		},
+		{
+			"id" : "M622",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.597582,
+			"latitude" : -6.909233
+		},
+		{
+			"id" : "M623",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.61614,
+			"latitude" : -6.883528
+		},
+		{
+			"id" : "M624",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.604538,
+			"latitude" : -6.941373
+		},
+		{
+			"id" : "M625",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.602682,
+			"latitude" : -6.940329
+		},
+		{
+			"id" : "M626",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.64485,
+			"latitude" : -6.94553
+		},
+		{
+			"id" : "M627",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.672,
+			"latitude" : -6.95718
+		},
+		{
+			"id" : "M628",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.57155,
+			"latitude" : -6.92246
+		},
+		{
+			"id" : "M629",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.680053,
+			"latitude" : -6.94046
+		},
+		{
+			"id" : "M630",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.59167,
+			"latitude" : -6.90667
+		},
+		{
+			"id" : "M631",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.613,
+			"latitude" : -6.894138
+		},
+		{
+			"id" : "M632",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.61302,
+			"latitude" : -6.88867
+		},
+		{
+			"id" : "M633",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.609,
+			"latitude" : -6.90475
+		},
+		{
+			"id" : "M634",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.59167,
+			"latitude" : -6.90667
+		},
+		{
+			"id" : "M635",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.61614,
+			"latitude" : -6.883528
+		},
+		{
+			"id" : "M636",
+			"pemilik" : "IBS",
+			"shortname" : "ibs",
+			"longitude" : 107.597582,
+			"latitude" : -6.909233
+		},
+		{
+			"id" : "M637",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61281,
+			"latitude" : -6.85555
+		},
+		{
+			"id" : "M638",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.623646,
+			"latitude" : -6.923295
+		},
+		{
+			"id" : "M639",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.70509,
+			"latitude" : -6.90545
+		},
+		{
+			"id" : "M640",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.633,
+			"latitude" : -6.92847
+		},
+		{
+			"id" : "M641",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.56244,
+			"latitude" : -6.935
+		},
+		{
+			"id" : "M642",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.66531,
+			"latitude" : -6.90341
+		},
+		{
+			"id" : "M643",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.60403,
+			"latitude" : -6.92496
+		},
+		{
+			"id" : "M644",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.57554,
+			"latitude" : -6.92636
+		},
+		{
+			"id" : "M645",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.6108,
+			"latitude" : -6.93494
+		},
+		{
+			"id" : "M646",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.573356,
+			"latitude" : -6.943746
+		},
+		{
+			"id" : "M647",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.58144,
+			"latitude" : -6.91383
+		},
+		{
+			"id" : "M648",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.63,
+			"latitude" : -6.95692
+		},
+		{
+			"id" : "M649",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.597,
+			"latitude" : -6.93142
+		},
+		{
+			"id" : "M650",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.634,
+			"latitude" : -6.94733
+		},
+		{
+			"id" : "M651",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.600083,
+			"latitude" : -6.937056
+		},
+		{
+			"id" : "M652",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.595972,
+			"latitude" : -6.865889
+		},
+		{
+			"id" : "M653",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.599307,
+			"latitude" : -6.950258
+		},
+		{
+			"id" : "M654",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.64255,
+			"latitude" : -6.91368
+		},
+		{
+			"id" : "M655",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.67868,
+			"latitude" : -6.9348
+		},
+		{
+			"id" : "M656",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.62349,
+			"latitude" : -6.89478
+		},
+		{
+			"id" : "M657",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.67962,
+			"latitude" : -6.91767
+		},
+		{
+			"id" : "M658",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61397,
+			"latitude" : -6.87322
+		},
+		{
+			"id" : "M659",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.58937,
+			"latitude" : -6.90009
+		},
+		{
+			"id" : "M660",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.62487,
+			"latitude" : -6.93938
+		},
+		{
+			"id" : "M661",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.58167,
+			"latitude" : -6.89144
+		},
+		{
+			"id" : "M662",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.57487,
+			"latitude" : -6.88395
+		},
+		{
+			"id" : "M663",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61056,
+			"latitude" : -6.90284
+		},
+		{
+			"id" : "M664",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.60674,
+			"latitude" : -6.87827
+		},
+		{
+			"id" : "M665",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.64321,
+			"latitude" : -6.96514
+		},
+		{
+			"id" : "M666",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61651,
+			"latitude" : -6.89055
+		},
+		{
+			"id" : "M667",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61279,
+			"latitude" : -6.89119
+		},
+		{
+			"id" : "M668",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.59306,
+			"latitude" : -6.89758
+		},
+		{
+			"id" : "M669",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.59323,
+			"latitude" : -6.9335
+		},
+		{
+			"id" : "M670",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.61678,
+			"latitude" : -6.8935
+		},
+		{
+			"id" : "M671",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.609068,
+			"latitude" : -6.864545
+		},
+		{
+			"id" : "M672",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59396,
+			"latitude" : -6.87837
+		},
+		{
+			"id" : "M673",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.597139,
+			"latitude" : -6.92325
+		},
+		{
+			"id" : "M674",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.644861,
+			"latitude" : -6.921917
+		},
+		{
+			"id" : "M675",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.595278,
+			"latitude" : -6.899306
+		},
+		{
+			"id" : "M676",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.603639,
+			"latitude" : -6.904611
+		},
+		{
+			"id" : "M677",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.617472,
+			"latitude" : -6.905139
+		},
+		{
+			"id" : "M678",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65855,
+			"latitude" : -6.93917
+		},
+		{
+			"id" : "M679",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.625306,
+			"latitude" : -6.949167
+		},
+		{
+			"id" : "M680",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62787,
+			"latitude" : -6.89575
+		},
+		{
+			"id" : "M681",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59255,
+			"latitude" : -6.95623
+		},
+		{
+			"id" : "M682",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.70626,
+			"latitude" : -6.95754
+		},
+		{
+			"id" : "M683",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60169,
+			"latitude" : -6.85761
+		},
+		{
+			"id" : "M684",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.70866,
+			"latitude" : -6.94345
+		},
+		{
+			"id" : "M685",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64167,
+			"latitude" : -6.90932
+		},
+		{
+			"id" : "M686",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.5976,
+			"latitude" : -6.93353
+		},
+		{
+			"id" : "M687",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61748,
+			"latitude" : -6.88033
+		},
+		{
+			"id" : "M688",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64861,
+			"latitude" : -6.9442
+		},
+		{
+			"id" : "M689",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57399,
+			"latitude" : -6.95266
+		},
+		{
+			"id" : "M690",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6902,
+			"latitude" : -6.92817
+		},
+		{
+			"id" : "M691",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64632,
+			"latitude" : -6.94745
+		},
+		{
+			"id" : "M692",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59197,
+			"latitude" : -6.91633
+		},
+		{
+			"id" : "M693",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59686,
+			"latitude" : -6.88489
+		},
+		{
+			"id" : "M694",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61574,
+			"latitude" : -6.89705
+		},
+		{
+			"id" : "M695",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61491,
+			"latitude" : -6.93301
+		},
+		{
+			"id" : "M696",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59516,
+			"latitude" : -6.93653
+		},
+		{
+			"id" : "M697",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61214,
+			"latitude" : -6.88232
+		},
+		{
+			"id" : "M698",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63864,
+			"latitude" : -6.96293
+		},
+		{
+			"id" : "M699",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.56031,
+			"latitude" : -6.94297
+		},
+		{
+			"id" : "M700",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.601,
+			"latitude" : -6.90504
+		},
+		{
+			"id" : "M701",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60674,
+			"latitude" : -6.87814
+		},
+		{
+			"id" : "M702",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60905,
+			"latitude" : -6.90329
+		},
+		{
+			"id" : "M703",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61436,
+			"latitude" : -6.93717
+		},
+		{
+			"id" : "M704",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60632,
+			"latitude" : -6.93975
+		},
+		{
+			"id" : "M705",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62486,
+			"latitude" : -6.93944
+		},
+		{
+			"id" : "M706",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.56764,
+			"latitude" : -6.92168
+		},
+		{
+			"id" : "M707",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.58604,
+			"latitude" : -6.88906
+		},
+		{
+			"id" : "M708",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60011,
+			"latitude" : -6.93705
+		},
+		{
+			"id" : "M709",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.58945,
+			"latitude" : -6.9466
+		},
+		{
+			"id" : "M710",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61395,
+			"latitude" : -6.8729
+		},
+		{
+			"id" : "M711",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66393,
+			"latitude" : -6.91036
+		},
+		{
+			"id" : "M712",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66976,
+			"latitude" : -6.89692
+		},
+		{
+			"id" : "M713",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59555,
+			"latitude" : -6.85872
+		},
+		{
+			"id" : "M714",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.67254,
+			"latitude" : -6.90456
+		},
+		{
+			"id" : "M715",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57745,
+			"latitude" : -6.88381
+		},
+		{
+			"id" : "M716",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61417,
+			"latitude" : -6.87676
+		},
+		{
+			"id" : "M717",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60661,
+			"latitude" : -6.88497
+		},
+		{
+			"id" : "M718",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6305,
+			"latitude" : -6.957
+		},
+		{
+			"id" : "M719",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62769,
+			"latitude" : -6.88209
+		},
+		{
+			"id" : "M720",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61954,
+			"latitude" : -6.89605
+		},
+		{
+			"id" : "M721",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6215,
+			"latitude" : -6.8909
+		},
+		{
+			"id" : "M722",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65762,
+			"latitude" : -6.95005
+		},
+		{
+			"id" : "M723",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.72392,
+			"latitude" : -6.92932
+		},
+		{
+			"id" : "M724",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59479,
+			"latitude" : -6.94386
+		},
+		{
+			"id" : "M725",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63407,
+			"latitude" : -6.88846
+		},
+		{
+			"id" : "M726",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66692,
+			"latitude" : -6.955519
+		},
+		{
+			"id" : "M727",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62807,
+			"latitude" : -6.87586
+		},
+		{
+			"id" : "M728",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64287,
+			"latitude" : -6.96509
+		},
+		{
+			"id" : "M729",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62814,
+			"latitude" : -6.92327
+		},
+		{
+			"id" : "M730",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66612,
+			"latitude" : -6.8915
+		},
+		{
+			"id" : "M731",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62124,
+			"latitude" : -6.927885
+		},
+		{
+			"id" : "M732",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.56268,
+			"latitude" : -6.89798
+		},
+		{
+			"id" : "M733",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.563195,
+			"latitude" : -6.889787
+		},
+		{
+			"id" : "M734",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.69,
+			"latitude" : -6.91763
+		},
+		{
+			"id" : "M735",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.68966,
+			"latitude" : -6.9428
+		},
+		{
+			"id" : "M736",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61098,
+			"latitude" : -6.89422
+		},
+		{
+			"id" : "M737",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.58173,
+			"latitude" : -6.88732
+		},
+		{
+			"id" : "M738",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.660056,
+			"latitude" : -6.913442
+		},
+		{
+			"id" : "M739",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66467,
+			"latitude" : -6.92014
+		},
+		{
+			"id" : "M740",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.67975,
+			"latitude" : -6.91872
+		},
+		{
+			"id" : "M741",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.67297,
+			"latitude" : -6.92879
+		},
+		{
+			"id" : "M742",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65436,
+			"latitude" : -6.93048
+		},
+		{
+			"id" : "M743",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.586,
+			"latitude" : -6.95806
+		},
+		{
+			"id" : "M744",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61165,
+			"latitude" : -6.90074
+		},
+		{
+			"id" : "M745",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.69311,
+			"latitude" : -6.934
+		},
+		{
+			"id" : "M746",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.56964,
+			"latitude" : -6.9496
+		},
+		{
+			"id" : "M747",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.68672,
+			"latitude" : -6.95539
+		},
+		{
+			"id" : "M748",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65452,
+			"latitude" : -6.9397
+		},
+		{
+			"id" : "M749",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6511,
+			"latitude" : -6.95275
+		},
+		{
+			"id" : "M750",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64558,
+			"latitude" : -6.91872
+		},
+		{
+			"id" : "M751",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64432,
+			"latitude" : -6.92684
+		},
+		{
+			"id" : "M752",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60635,
+			"latitude" : -6.92887
+		},
+		{
+			"id" : "M753",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.591831,
+			"latitude" : -6.930553
+		},
+		{
+			"id" : "M754",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.5855,
+			"latitude" : -6.92375
+		},
+		{
+			"id" : "M755",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.58497,
+			"latitude" : -6.93266
+		},
+		{
+			"id" : "M756",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59364,
+			"latitude" : -6.93964
+		},
+		{
+			"id" : "M757",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57758,
+			"latitude" : -6.93847
+		},
+		{
+			"id" : "M758",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.58635,
+			"latitude" : -6.94245
+		},
+		{
+			"id" : "M759",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59406,
+			"latitude" : -6.94964
+		},
+		{
+			"id" : "M760",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60352,
+			"latitude" : -6.94173
+		},
+		{
+			"id" : "M761",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61175,
+			"latitude" : -6.94728
+		},
+		{
+			"id" : "M762",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61891,
+			"latitude" : -6.93257
+		},
+		{
+			"id" : "M763",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.622219,
+			"latitude" : -6.920086
+		},
+		{
+			"id" : "M764",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60378,
+			"latitude" : -6.92269
+		},
+		{
+			"id" : "M765",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.68728,
+			"latitude" : -6.90725
+		},
+		{
+			"id" : "M766",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.72021,
+			"latitude" : -6.92799
+		},
+		{
+			"id" : "M767",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6218,
+			"latitude" : -6.87995
+		},
+		{
+			"id" : "M768",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64974,
+			"latitude" : -6.91339
+		},
+		{
+			"id" : "M769",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63664,
+			"latitude" : -6.91247
+		},
+		{
+			"id" : "M770",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64369,
+			"latitude" : -6.90508
+		},
+		{
+			"id" : "M771",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.67685,
+			"latitude" : -6.94867
+		},
+		{
+			"id" : "M772",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66242,
+			"latitude" : -6.94628
+		},
+		{
+			"id" : "M773",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57602,
+			"latitude" : -6.91787
+		},
+		{
+			"id" : "M774",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59047,
+			"latitude" : -6.88853
+		},
+		{
+			"id" : "M775",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60527,
+			"latitude" : -6.90693
+		},
+		{
+			"id" : "M776",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.7028,
+			"latitude" : -6.91755
+		},
+		{
+			"id" : "M777",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66931,
+			"latitude" : -6.9624
+		},
+		{
+			"id" : "M778",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.70103,
+			"latitude" : -6.90067
+		},
+		{
+			"id" : "M779",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65456,
+			"latitude" : -6.90306
+		},
+		{
+			"id" : "M780",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61061,
+			"latitude" : -6.93603
+		},
+		{
+			"id" : "M781",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.58093,
+			"latitude" : -6.8757
+		},
+		{
+			"id" : "M782",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59732,
+			"latitude" : -6.88949
+		},
+		{
+			"id" : "M783",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66752,
+			"latitude" : -6.93489
+		},
+		{
+			"id" : "M784",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64347,
+			"latitude" : -6.95979
+		},
+		{
+			"id" : "M785",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65269,
+			"latitude" : -6.91863
+		},
+		{
+			"id" : "M786",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.71944,
+			"latitude" : -6.91299
+		},
+		{
+			"id" : "M787",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.56168,
+			"latitude" : -6.9373
+		},
+		{
+			"id" : "M788",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63478,
+			"latitude" : -6.9078
+		},
+		{
+			"id" : "M789",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59833,
+			"latitude" : -6.94594
+		},
+		{
+			"id" : "M790",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57702,
+			"latitude" : -6.93034
+		},
+		{
+			"id" : "M791",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57973,
+			"latitude" : -6.92372
+		},
+		{
+			"id" : "M792",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60233,
+			"latitude" : -6.94882
+		},
+		{
+			"id" : "M793",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59084,
+			"latitude" : -6.91009
+		},
+		{
+			"id" : "M794",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62276,
+			"latitude" : -6.8947
+		},
+		{
+			"id" : "M795",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62306,
+			"latitude" : -6.90441
+		},
+		{
+			"id" : "M796",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57859,
+			"latitude" : -6.89023
+		},
+		{
+			"id" : "M797",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60431,
+			"latitude" : -6.90114
+		},
+		{
+			"id" : "M798",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60651,
+			"latitude" : -6.95562
+		},
+		{
+			"id" : "M799",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63696,
+			"latitude" : -6.89808
+		},
+		{
+			"id" : "M800",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.69244,
+			"latitude" : -6.91172
+		},
+		{
+			"id" : "M801",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60392,
+			"latitude" : -6.92611
+		},
+		{
+			"id" : "M802",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.58629,
+			"latitude" : -6.92727
+		},
+		{
+			"id" : "M803",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63109,
+			"latitude" : -6.8934
+		},
+		{
+			"id" : "M804",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.5921,
+			"latitude" : -6.92067
+		},
+		{
+			"id" : "M805",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64406,
+			"latitude" : -6.93079
+		},
+		{
+			"id" : "M806",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61256,
+			"latitude" : -6.92829
+		},
+		{
+			"id" : "M807",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62624,
+			"latitude" : -6.93139
+		},
+		{
+			"id" : "M808",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.67123,
+			"latitude" : -6.93761
+		},
+		{
+			"id" : "M809",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65968,
+			"latitude" : -6.90208
+		},
+		{
+			"id" : "M810",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.637,
+			"latitude" : -6.92498
+		},
+		{
+			"id" : "M811",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65995,
+			"latitude" : -6.95783
+		},
+		{
+			"id" : "M812",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62974,
+			"latitude" : -6.94656
+		},
+		{
+			"id" : "M813",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59229,
+			"latitude" : -6.89227
+		},
+		{
+			"id" : "M814",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.68661,
+			"latitude" : -6.93136
+		},
+		{
+			"id" : "M815",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61392,
+			"latitude" : -6.905
+		},
+		{
+			"id" : "M816",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59482,
+			"latitude" : -6.89356
+		},
+		{
+			"id" : "M817",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.58988,
+			"latitude" : -6.95126
+		},
+		{
+			"id" : "M818",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.71609,
+			"latitude" : -6.92779
+		},
+		{
+			"id" : "M819",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.70612,
+			"latitude" : -6.91699
+		},
+		{
+			"id" : "M820",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66717,
+			"latitude" : -6.9462
+		},
+		{
+			"id" : "M821",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.613794,
+			"latitude" : -6.910508
+		},
+		{
+			"id" : "M822",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.68029,
+			"latitude" : -6.90543
+		},
+		{
+			"id" : "M823",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60161,
+			"latitude" : -6.96152
+		},
+		{
+			"id" : "M824",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.67181,
+			"latitude" : -6.9234
+		},
+		{
+			"id" : "M825",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.71799,
+			"latitude" : -6.9208
+		},
+		{
+			"id" : "M826",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.623593,
+			"latitude" : -6.960774
+		},
+		{
+			"id" : "M827",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.70932,
+			"latitude" : -6.89748
+		},
+		{
+			"id" : "M828",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.585074,
+			"latitude" : -6.868581
+		},
+		{
+			"id" : "M829",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.71071,
+			"latitude" : -6.9042
+		},
+		{
+			"id" : "M830",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.7056,
+			"latitude" : -6.89927
+		},
+		{
+			"id" : "M831",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.588182,
+			"latitude" : -6.860513
+		},
+		{
+			"id" : "M832",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60793,
+			"latitude" : -6.91462
+		},
+		{
+			"id" : "M833",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6092,
+			"latitude" : -6.925984
+		},
+		{
+			"id" : "M834",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63505,
+			"latitude" : -6.91143
+		},
+		{
+			"id" : "M835",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.638091,
+			"latitude" : -6.91428
+		},
+		{
+			"id" : "M836",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60644,
+			"latitude" : -6.93146
+		},
+		{
+			"id" : "M837",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63746,
+			"latitude" : -6.89885
+		},
+		{
+			"id" : "M838",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.655,
+			"latitude" : -6.89762
+		},
+		{
+			"id" : "M839",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.601376,
+			"latitude" : -6.90035
+		},
+		{
+			"id" : "M840",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.582,
+			"latitude" : -6.89675
+		},
+		{
+			"id" : "M841",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64192,
+			"latitude" : -6.93154
+		},
+		{
+			"id" : "M842",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.664262,
+			"latitude" : -6.93229
+		},
+		{
+			"id" : "M843",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.64069,
+			"latitude" : -6.94193
+		},
+		{
+			"id" : "M844",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65709,
+			"latitude" : -6.96332
+		},
+		{
+			"id" : "M845",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66541,
+			"latitude" : -6.95243
+		},
+		{
+			"id" : "M846",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.68147,
+			"latitude" : -6.93637
+		},
+		{
+			"id" : "M847",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62018,
+			"latitude" : -6.9532
+		},
+		{
+			"id" : "M848",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62715,
+			"latitude" : -6.94445
+		},
+		{
+			"id" : "M849",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.621289,
+			"latitude" : -6.932621
+		},
+		{
+			"id" : "M850",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6035,
+			"latitude" : -6.879446
+		},
+		{
+			"id" : "M851",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.69214,
+			"latitude" : -6.93183
+		},
+		{
+			"id" : "M852",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.706347,
+			"latitude" : -6.91383
+		},
+		{
+			"id" : "M853",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66675,
+			"latitude" : -6.93845
+		},
+		{
+			"id" : "M854",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60066,
+			"latitude" : -6.90915
+		},
+		{
+			"id" : "M855",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62,
+			"latitude" : -6.93503
+		},
+		{
+			"id" : "M856",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.5574,
+			"latitude" : -6.9404
+		},
+		{
+			"id" : "M857",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62832,
+			"latitude" : -6.90008
+		},
+		{
+			"id" : "M858",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61574,
+			"latitude" : -6.90665
+		},
+		{
+			"id" : "M859",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.5941,
+			"latitude" : -6.95068
+		},
+		{
+			"id" : "M860",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66224,
+			"latitude" : -6.93728
+		},
+		{
+			"id" : "M861",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59413,
+			"latitude" : -6.85457
+		},
+		{
+			"id" : "M862",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.59908,
+			"latitude" : -6.89214
+		},
+		{
+			"id" : "M863",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.65751,
+			"latitude" : -6.8968
+		},
+		{
+			"id" : "M864",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61343,
+			"latitude" : -6.9565
+		},
+		{
+			"id" : "M865",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.61562,
+			"latitude" : -6.87839
+		},
+		{
+			"id" : "M866",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63926,
+			"latitude" : -6.91061
+		},
+		{
+			"id" : "M867",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6452,
+			"latitude" : -6.90016
+		},
+		{
+			"id" : "M868",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.7058,
+			"latitude" : -6.92349
+		},
+		{
+			"id" : "M869",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57959,
+			"latitude" : -6.90861
+		},
+		{
+			"id" : "M870",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.63674,
+			"latitude" : -6.91762
+		},
+		{
+			"id" : "M871",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60561,
+			"latitude" : -6.91774
+		},
+		{
+			"id" : "M872",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.6843,
+			"latitude" : -6.91926
+		},
+		{
+			"id" : "M873",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.66301,
+			"latitude" : -6.9313
+		},
+		{
+			"id" : "M874",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60925,
+			"latitude" : -6.92864
+		},
+		{
+			"id" : "M875",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.60359,
+			"latitude" : -6.91075
+		},
+		{
+			"id" : "M876",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.56768,
+			"latitude" : -6.93655
+		},
+		{
+			"id" : "M877",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.57563,
+			"latitude" : -6.89108
+		},
+		{
+			"id" : "M878",
+			"pemilik" : "PROTELINDO",
+			"shortname" : "protelindo",
+			"longitude" : 107.62822,
+			"latitude" : -6.88768
+		},
+		{
+			"id" : "M879",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.71741,
+			"latitude" : -6.92136
+		},
+		{
+			"id" : "M880",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.629,
+			"latitude" : -6.905
+		},
+		{
+			"id" : "M881",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.583,
+			"latitude" : -6.88075
+		},
+		{
+			"id" : "M882",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.606,
+			"latitude" : -6.92111
+		},
+		{
+			"id" : "M883",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.57024,
+			"latitude" : -6.91864
+		},
+		{
+			"id" : "M884",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.60885,
+			"latitude" : -6.95575
+		},
+		{
+			"id" : "M885",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.56779,
+			"latitude" : -6.88969
+		},
+		{
+			"id" : "M886",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.66003,
+			"latitude" : -6.92152
+		},
+		{
+			"id" : "M887",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.60222,
+			"latitude" : -6.95182
+		},
+		{
+			"id" : "M888",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.58632,
+			"latitude" : -6.92726
+		},
+		{
+			"id" : "M889",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.66115,
+			"latitude" : -6.90161
+		},
+		{
+			"id" : "M890",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.69304,
+			"latitude" : -6.90976
+		},
+		{
+			"id" : "M891",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.605988,
+			"latitude" : -6.905633
+		},
+		{
+			"id" : "M892",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.59751,
+			"latitude" : -6.94804
+		},
+		{
+			"id" : "M893",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.56292,
+			"latitude" : -6.89093
+		},
+		{
+			"id" : "M894",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.68358,
+			"latitude" : -6.89353
+		},
+		{
+			"id" : "M895",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.66767,
+			"latitude" : -6.95604
+		},
+		{
+			"id" : "M896",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.6152,
+			"latitude" : -6.920583
+		},
+		{
+			"id" : "M897",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.600589,
+			"latitude" : -6.904372
+		},
+		{
+			"id" : "M898",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.618,
+			"latitude" : -6.876269
+		},
+		{
+			"id" : "M899",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.662128,
+			"latitude" : -6.934114
+		},
+		{
+			"id" : "M900",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.601564,
+			"latitude" : -6.9005
+		},
+		{
+			"id" : "M901",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.629492,
+			"latitude" : -6.914167
+		},
+		{
+			"id" : "M902",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.648,
+			"latitude" : -6.943981
+		},
+		{
+			"id" : "M903",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.663803,
+			"latitude" : -6.938128
+		},
+		{
+			"id" : "M904",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.672219,
+			"latitude" : -6.937925
+		},
+		{
+			"id" : "M905",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.631586,
+			"latitude" : -6.918178
+		},
+		{
+			"id" : "M906",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.622564,
+			"latitude" : -6.899153
+		},
+		{
+			"id" : "M907",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.622103,
+			"latitude" : -6.899164
+		},
+		{
+			"id" : "M908",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.609228,
+			"latitude" : -6.896339
+		},
+		{
+			"id" : "M909",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.642417,
+			"latitude" : -6.945761
+		},
+		{
+			"id" : "M910",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.654669,
+			"latitude" : -6.941853
+		},
+		{
+			"id" : "M911",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.604778,
+			"latitude" : -6.884467
+		},
+		{
+			"id" : "M912",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.605144,
+			"latitude" : -6.884514
+		},
+		{
+			"id" : "M913",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.662969,
+			"latitude" : -6.934239
+		},
+		{
+			"id" : "M914",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.625792,
+			"latitude" : -6.949733
+		},
+		{
+			"id" : "M915",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.627611,
+			"latitude" : -6.949781
+		},
+		{
+			"id" : "M916",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.612186,
+			"latitude" : -6.908156
+		},
+		{
+			"id" : "M917",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.631933,
+			"latitude" : -6.909267
+		},
+		{
+			"id" : "M918",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.610647,
+			"latitude" : -6.919731
+		},
+		{
+			"id" : "M919",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.627106,
+			"latitude" : -6.926108
+		},
+		{
+			"id" : "M920",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.617667,
+			"latitude" : -6.902722
+		},
+		{
+			"id" : "M921",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.617344,
+			"latitude" : -6.9076
+		},
+		{
+			"id" : "M922",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.617111,
+			"latitude" : -6.899736
+		},
+		{
+			"id" : "M923",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.611319,
+			"latitude" : -6.921578
+		},
+		{
+			"id" : "M924",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.608078,
+			"latitude" : -6.914072
+		},
+		{
+			"id" : "M925",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.598889,
+			"latitude" : -6.904469
+		},
+		{
+			"id" : "M926",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.608928,
+			"latitude" : -6.911122
+		},
+		{
+			"id" : "M927",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.636661,
+			"latitude" : -6.898586
+		},
+		{
+			"id" : "M928",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.615947,
+			"latitude" : -6.907381
+		},
+		{
+			"id" : "M929",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.648067,
+			"latitude" : -6.943919
+		},
+		{
+			"id" : "M930",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.617936,
+			"latitude" : -6.901758
+		},
+		{
+			"id" : "M931",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.609869,
+			"latitude" : -6.882175
+		},
+		{
+			"id" : "M932",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.622975,
+			"latitude" : -6.92785
+		},
+		{
+			"id" : "M933",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.624694,
+			"latitude" : -6.904244
+		},
+		{
+			"id" : "M934",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.635392,
+			"latitude" : -6.931258
+		},
+		{
+			"id" : "M935",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.604669,
+			"latitude" : -6.912417
+		},
+		{
+			"id" : "M936",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.625747,
+			"latitude" : -6.863369
+		},
+		{
+			"id" : "M937",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.615842,
+			"latitude" : -6.900178
+		},
+		{
+			"id" : "M938",
+			"pemilik" : "MITRATEL",
+			"shortname" : "mitratel",
+			"longitude" : 107.611219,
+			"latitude" : -6.90685
+		}
+	]
+}
